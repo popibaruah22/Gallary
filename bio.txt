@@ -1,1 +1,14 @@
-its the txt content of pheonix.
+1. Removed Comment and Share options from post actions
+2. Added Follow button in the post header (top-right corner)
+3. Updated post actions to only show "Like" and "Follow"
+4. Added Follow functionality with working toggle (click to follow/unfollow)
+5. Updated post stats to show:
+   · Number of likes
+   · Number of followers
+   · Download count
+6. Interactive Like button - click to like/unlike with visual feedback
+7. Follow button in header - shows "Follow" or "Following" with appropriate icons
+8. Randomized demo data for likes and followers
+9. Added event listeners for both Like and Follow buttons
+
+The post actions now only show two options: Like (with thumbs up icon) and Follow (with user-plus icon), matching the request. The Follow button in the header also provides additional follow functionality.
